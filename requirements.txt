@@ -1,0 +1,5 @@
+python-dotenv
+gino
+aiogram~=2.17
+psycopg
+SqlAlchemy~=1.2.16
